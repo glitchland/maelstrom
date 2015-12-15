@@ -20,8 +20,8 @@ go.
 This is a demo (Arrow keys to move, space to shoot):      
 http://glitchland.github.io/maelstrom/
 
-![Amdusias](sprites/intro_screen.png?raw=true)
-
+![Screenshot1](sprites/intro_screen.png?raw=true)
+![Screenshot2](sprites/screen_shot_1.png?raw=true)
 
 TODO
 =========
