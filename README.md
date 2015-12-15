@@ -5,7 +5,7 @@ Simple OO JavaScript Canvas Based GameEngine With An Example Game. This is
 the first JavaScript code that I have ever written, please be patient with
 it. I want to use it to demonstrate my skills progression. 
 
-This is a demo (Arrow keys to move, space to shoot):
+This is a demo (Arrow keys to move, space to shoot):      
 http://glitchland.github.io/maelstrom/
 
 ![Amdusias](sprites/intro_screen.png?raw=true)
