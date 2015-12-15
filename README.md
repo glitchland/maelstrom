@@ -8,6 +8,7 @@ it. I want to use it to demonstrate my skills progression.
 This is a demo:
 http://glitchland.github.io/maelstrom/
 
+![Amdusias](sprites/intro_screen.png?raw=true)
 (Arrow keys to move, space to shoot)
 
 TODO
