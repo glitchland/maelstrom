@@ -1,9 +1,10 @@
 MAELSTROM
 =========
 
-Simple OO JavaScript Canvas Based GameEngine With An Example Game. This is
-the first JavaScript code that I have ever written, please be patient with
-it. I want to use it to demonstrate my skills progression. 
+This is a very simple OO JavaScript Canvas Based GameEngine With An Example Game. 
+It is the first JavaScript code that I have ever written, please be patient with
+it. I want to use it here to demonstrate my skills progression over time. This is
+my starting point (smile).
 
 The small game which demonstrates that the game engine works, is a homage to
 the beautiful old vector based game 'Asteroids'. This version pokes playful
