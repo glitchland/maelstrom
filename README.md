@@ -11,7 +11,7 @@ the beautiful old vector based game 'Asteroids'. This version pokes playful
 fun at the sisyphean nature of the original game. A high score is bad, since
 the score is the count of poor souls whos untimely demise is caused by your
 sloppy asteroid cleanup job. Your ship has a dashboard that contains a stream
-of messages your fellow earthlings -- the messages go through a mood shift of
+of messages from your fellow earthlings -- the messages go through a mood shift of
 the stages of grief as the situation gets more dire. When you fail, you are
 stuck inside of the singularity technology that allowed your ship to respawn.
 At that point, you can press space to maintain conciousness or choose to let
